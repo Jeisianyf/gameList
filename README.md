@@ -18,7 +18,7 @@ Para isso, foi consumida uma API disponível pela empresa.
 - [ ] Mensagem ao retornar outros erros
 - [ ] Se os dados demorarem mais que 5s para retornar, apresentar uma mensagem
 
-*Como não foi implementado retorno de mensagem em caso de erros na API, é recomendado atualizar a página para visualizar o conteúdo, se ocorrer tela branca*
+*Como não foi implementado retorno de mensagem para erros na API, é recomendado atualizar a página para visualizar o conteúdo se ocorrer tela branca*
 
 ## Tecnologias utilizadas: 💻
 * ReactJS
