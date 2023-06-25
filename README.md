@@ -4,6 +4,8 @@
 A página web tem o objetivo de apresentar uma diversa lista de jogos, na qual é possível pesquisar pelo nome do jogo desejado ou filtrar de acordo com seu gênero.
 Para isso, foi consumida uma API disponível pela empresa.
 
+## URL do projeto online:  https://appgamelist.netlify.app/
+
 ## ✔ Requisitos Funcionais:
 - [x] Projeto desenvolvido usando ReactJS
 - [x] Obter lista de jogos
