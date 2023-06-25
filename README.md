@@ -9,5 +9,6 @@ Para isso, foi consumida uma API disponível pela empresa.
 * Styled Components
 
 **_Telas_**
-
+![Home](https://github.com/Jeisianyf/gameList/blob/main/print-home.png)
+![Visão em Mobile](https://github.com/Jeisianyf/gameList/blob/main/print-mobile-20.png)
 
